@@ -1,0 +1,72 @@
+﻿  Experiment with color based PF.cpp
+Experiment with color based PF.cpp(2): warning C4627: '#include <time.h>': skipped when looking for precompiled header use
+  Experiment with color based PF.cpp(2): note: Add directive to 'stdafx.h' or rebuild precompiled header
+Experiment with color based PF.cpp(3): warning C4627: '#include <cstdio>': skipped when looking for precompiled header use
+  Experiment with color based PF.cpp(3): note: Add directive to 'stdafx.h' or rebuild precompiled header
+Experiment with color based PF.cpp(4): warning C4627: '#include <math.h>': skipped when looking for precompiled header use
+  Experiment with color based PF.cpp(4): note: Add directive to 'stdafx.h' or rebuild precompiled header
+Experiment with color based PF.cpp(5): warning C4627: '#include <ctype.h>': skipped when looking for precompiled header use
+  Experiment with color based PF.cpp(5): note: Add directive to 'stdafx.h' or rebuild precompiled header
+Experiment with color based PF.cpp(6): warning C4627: '#include <iostream>': skipped when looking for precompiled header use
+  Experiment with color based PF.cpp(6): note: Add directive to 'stdafx.h' or rebuild precompiled header
+Experiment with color based PF.cpp(7): warning C4627: '#include <functional>': skipped when looking for precompiled header use
+  Experiment with color based PF.cpp(7): note: Add directive to 'stdafx.h' or rebuild precompiled header
+Experiment with color based PF.cpp(8): warning C4627: '#include <vector>': skipped when looking for precompiled header use
+  Experiment with color based PF.cpp(8): note: Add directive to 'stdafx.h' or rebuild precompiled header
+Experiment with color based PF.cpp(9): warning C4627: '#include <fstream>': skipped when looking for precompiled header use
+  Experiment with color based PF.cpp(9): note: Add directive to 'stdafx.h' or rebuild precompiled header
+Experiment with color based PF.cpp(97): warning C4305: 'initializing': truncation from 'double' to 'float'
+Experiment with color based PF.cpp(98): warning C4305: 'initializing': truncation from 'double' to 'float'
+Experiment with color based PF.cpp(280): warning C4018: '<': signed/unsigned mismatch
+Experiment with color based PF.cpp(329): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+Experiment with color based PF.cpp(336): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Experiment with color based PF.cpp(336): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Experiment with color based PF.cpp(337): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Experiment with color based PF.cpp(337): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Experiment with color based PF.cpp(339): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Experiment with color based PF.cpp(339): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Experiment with color based PF.cpp(340): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Experiment with color based PF.cpp(340): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Experiment with color based PF.cpp(361): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Experiment with color based PF.cpp(362): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Experiment with color based PF.cpp(519): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Experiment with color based PF.cpp(520): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Experiment with color based PF.cpp(523): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Experiment with color based PF.cpp(526): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Experiment with color based PF.cpp(528): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Experiment with color based PF.cpp(529): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Experiment with color based PF.cpp(587): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Experiment with color based PF.cpp(588): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Experiment with color based PF.cpp(589): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Experiment with color based PF.cpp(590): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Experiment with color based PF.cpp(606): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Experiment with color based PF.cpp(607): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Experiment with color based PF.cpp(609): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Experiment with color based PF.cpp(610): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Experiment with color based PF.cpp(613): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Experiment with color based PF.cpp(614): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Experiment with color based PF.cpp(616): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+Experiment with color based PF.cpp(617): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+Experiment with color based PF.cpp(620): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Experiment with color based PF.cpp(621): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Experiment with color based PF.cpp(622): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Experiment with color based PF.cpp(623): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Experiment with color based PF.cpp(638): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Experiment with color based PF.cpp(686): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Experiment with color based PF.cpp(716): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Experiment with color based PF.cpp(721): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Experiment with color based PF.cpp(739): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Experiment with color based PF.cpp(740): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Experiment with color based PF.cpp(741): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Experiment with color based PF.cpp(742): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Experiment with color based PF.cpp(1041): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Experiment with color based PF.cpp(1171): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Experiment with color based PF.cpp(1190): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+Experiment with color based PF.cpp(1215): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+Experiment with color based PF.cpp(1216): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  1 of 585 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Experiment with color based PF.vcxproj -> C:\Users\xuhongl\Desktop\Experiment with color based PF\Release\Experiment with color based PF.exe

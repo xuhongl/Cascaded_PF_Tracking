@@ -13,3 +13,4 @@ Cascaded Particle Filter with 2D Color-based Tracking( hue and saturation color 
 - Results are shown in window "Color Probabilistic Tracking - Result".
 - Change the values for amplifiers "VAR_U", "VAR_V", ..., "VAR_HPRIME" to track targets with different mobility. 
 	- Use large values for person with high mobility.
+shitty
